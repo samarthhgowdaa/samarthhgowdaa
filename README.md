@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Samarth, an Engineer still learning.
+I'm Samarth, an Electrical & Electronics Engineer still learning.
 
 I design and build, whatever I can imagine and dream (I try my best).
 
