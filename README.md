@@ -6,7 +6,7 @@ I design and build, whatever I can imagine and dream (I try my best).
 
 Still figuring out most of the stuff, and juggling through (you name it) everything (probably).
 
-Trying to my best, Over and out.
+Trying to do my best, Over and out.
 
 
 <!--
