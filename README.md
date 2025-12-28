@@ -1,12 +1,18 @@
 ## Hey there! 👋
 
-I'm Samarth, an Electrical & Electronics Engineer still learning.
+I'm Samarth, an Electrical & Electronics Engineer still learning. I design and build, whatever I can imagine and dream (I try my best). Still figuring out most of the stuff, and juggling through (you name it) everything (probably). Trying to do my best, Over and out.
 
-I design and build, whatever I can imagine and dream (I try my best).
+![C](https://img.shields.io/badge/C-Programming-blue)
+![Verilog](https://img.shields.io/badge/Verilog-HDL-orange)
+![ESP32](https://img.shields.io/badge/ESP32-Embedded-green)
+![Linux](https://img.shields.io/badge/Linux-Arch-black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-A5915F?logo=altiumdesigner&logoColor=white)
 
-Still figuring out most of the stuff, and juggling through (you name it) everything (probably).
-
-Trying to do my best, Over and out.
 
 
 <!--
