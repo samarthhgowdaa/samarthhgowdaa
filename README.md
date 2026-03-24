@@ -14,7 +14,7 @@ I'm Samarth, an Electrical & Electronics Engineer still learning. I design and b
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?logo=kicad&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-A5915F?logo=altiumdesigner&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![pub package](https://img.shields.io)](https://pub.dev)
+
 
 
 
